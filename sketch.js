@@ -1,4 +1,4 @@
-# kunstwerk
+# kunstwerk i
 kleuren= 0
 
 function setup() {
